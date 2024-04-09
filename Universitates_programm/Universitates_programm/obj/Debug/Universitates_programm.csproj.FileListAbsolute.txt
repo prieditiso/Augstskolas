@@ -1,0 +1,10 @@
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\bin\Debug\Universitates_programm.exe.config
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\bin\Debug\Universitates_programm.exe
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\bin\Debug\Universitates_programm.pdb
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\bin\Debug\Newtonsoft.Json.dll
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\bin\Debug\Newtonsoft.Json.xml
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\obj\Debug\Universitates_programm.csprojAssemblyReference.cache
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\obj\Debug\Universitates_programm.csproj.CoreCompileInputs.cache
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\obj\Debug\Universitates_programm.csproj.CopyComplete
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\obj\Debug\Universitates_programm.exe
+Z:\2023\OP_VS_IZVELE\Universitates_programm\Universitates_programm\obj\Debug\Universitates_programm.pdb
